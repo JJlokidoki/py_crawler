@@ -1,0 +1,10 @@
+docs
+Makefile
+requirements.txt
+tests
+wfencode
+wfpayload
+wfuzz
+wfuzz.bat
+wordlist
+wxfuzz.bat
